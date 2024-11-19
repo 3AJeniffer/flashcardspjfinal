@@ -1,8 +1,6 @@
 body {
-    background-color: rgb(244, 134, 248);
-
+    background-color: lavender;
 }
-
 footer {
     background-color: black;
     color: white;
@@ -15,4 +13,5 @@ footer {
 footer p {
     text-align: center;
     font-size: 0.6rem;
+    margin-top: 0.5rem;
 }
